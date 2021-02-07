@@ -1,0 +1,4 @@
+{
+    "game": ["Donxon.Common.lua", "Donxon.Game.lua", "Game.lua"], 
+    "ui": ["Donxon.Common.lua", "Donxon.UI.lua", "Content.UI.lua", "ui.lua"]
+}
